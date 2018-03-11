@@ -1,2 +1,2 @@
-Designing a Alumni portel for RGUKT students.
-Contributor : Shyam kunda
+Designing a Profile Page in Bootstrap.
+
